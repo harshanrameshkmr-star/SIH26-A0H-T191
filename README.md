@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T191
 ### Team Details
-#### **Team Name** <Jaguar> <br/>
+#### **Team Name** <<Jaguar>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
